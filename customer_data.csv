@@ -1,0 +1,101 @@
+Customer_ID,Source_Profile_ID,Tenure,MonthlyCharges,TotalCharges,Contract,PaymentMethod,PaperlessBilling,SeniorCitizen,Churn
+CUST001,C00001,6,64,1540,One year,Credit Card,No,1,0
+CUST002,C00002,21,113,1753,Month-to-month,Electronic Check,Yes,1,0
+CUST003,C00003,27,31,1455,Two year,Credit Card,No,1,0
+CUST004,C00004,53,29,7150,Month-to-month,Electronic Check,No,1,0
+CUST005,C00005,16,185,1023,One year,Electronic Check,No,1,0
+CUST006,C00006,55,44,7538,Two year,Electronic Check,No,0,0
+CUST007,C00007,66,99,4178,Two year,Bank Transfer,No,1,0
+CUST008,C00008,61,128,3088,Month-to-month,Bank Transfer,No,1,0
+CUST009,C00009,64,124,7973,Month-to-month,Credit Card,No,1,0
+CUST010,C00010,14,120,5844,One year,Bank Transfer,Yes,1,0
+CUST011,C00011,59,57,5168,One year,Credit Card,Yes,0,0
+CUST012,C00012,7,110,7282,Month-to-month,Electronic Check,No,1,1
+CUST013,C00013,53,86,3438,Month-to-month,Bank Transfer,Yes,1,0
+CUST014,C00014,8,158,6194,Month-to-month,Credit Card,No,1,1
+CUST015,C00015,53,58,768,Month-to-month,Credit Card,Yes,1,0
+CUST016,C00016,65,77,4071,Month-to-month,Credit Card,Yes,1,0
+CUST017,C00017,19,187,4874,Two year,Credit Card,No,0,0
+CUST018,C00018,42,101,3736,One year,Bank Transfer,Yes,0,0
+CUST019,C00019,7,156,5389,One year,Bank Transfer,Yes,0,1
+CUST020,C00020,26,105,6868,Month-to-month,Bank Transfer,Yes,1,0
+CUST021,C00021,38,137,1000,Month-to-month,Electronic Check,No,1,0
+CUST022,C00022,25,120,4855,Two year,Credit Card,Yes,0,0
+CUST023,C00023,60,40,1755,One year,Credit Card,No,1,0
+CUST024,C00024,30,100,3710,Two year,Credit Card,No,1,0
+CUST025,C00025,25,193,7565,Month-to-month,Bank Transfer,No,0,0
+CUST026,C00026,47,181,3295,One year,Credit Card,No,1,0
+CUST027,C00027,60,101,3741,Month-to-month,Bank Transfer,No,1,0
+CUST028,C00028,20,56,3950,One year,Bank Transfer,No,1,0
+CUST029,C00029,36,175,3682,One year,Bank Transfer,No,0,0
+CUST030,C00030,34,190,7540,One year,Bank Transfer,No,1,0
+CUST031,C00031,28,101,4643,One year,Electronic Check,Yes,1,0
+CUST032,C00032,10,196,4825,Month-to-month,Credit Card,Yes,0,1
+CUST033,C00033,43,182,7129,One year,Electronic Check,Yes,0,0
+CUST034,C00034,32,195,7139,One year,Bank Transfer,Yes,1,0
+CUST035,C00035,60,44,1302,One year,Credit Card,No,1,0
+CUST036,C00036,50,116,690,Month-to-month,Credit Card,No,1,0
+CUST037,C00037,37,42,947,Month-to-month,Electronic Check,No,0,0
+CUST038,C00038,62,166,6225,Two year,Electronic Check,Yes,1,0
+CUST039,C00039,50,84,858,Month-to-month,Credit Card,No,0,0
+CUST040,C00040,26,151,1952,Two year,Electronic Check,No,0,0
+CUST041,C00041,42,20,1950,Two year,Credit Card,Yes,1,0
+CUST042,C00042,7,148,2701,Two year,Credit Card,Yes,0,0
+CUST043,C00043,63,89,6547,One year,Electronic Check,Yes,0,0
+CUST044,C00044,42,123,3913,Month-to-month,Credit Card,No,1,0
+CUST045,C00045,34,93,3344,Two year,Credit Card,Yes,0,0
+CUST046,C00046,32,170,4773,Two year,Credit Card,No,1,0
+CUST047,C00047,22,46,7555,Month-to-month,Bank Transfer,No,1,0
+CUST048,C00048,37,162,3735,Month-to-month,Electronic Check,Yes,1,0
+CUST049,C00049,56,49,3376,Month-to-month,Bank Transfer,No,0,0
+CUST050,C00050,49,121,5161,One year,Bank Transfer,Yes,0,0
+CUST051,C00051,71,172,416,Month-to-month,Electronic Check,No,1,0
+CUST052,C00052,31,154,7537,Two year,Credit Card,Yes,1,0
+CUST053,C00053,53,48,1497,One year,Credit Card,No,0,0
+CUST054,C00054,49,68,2615,Month-to-month,Bank Transfer,Yes,1,0
+CUST055,C00055,9,157,7022,Month-to-month,Bank Transfer,No,0,1
+CUST056,C00056,47,54,6827,Two year,Bank Transfer,Yes,0,0
+CUST057,C00057,58,121,3537,One year,Credit Card,No,1,0
+CUST058,C00058,59,72,7053,Month-to-month,Bank Transfer,Yes,0,0
+CUST059,C00059,36,38,3792,One year,Bank Transfer,Yes,1,0
+CUST060,C00060,26,182,7074,Month-to-month,Credit Card,No,0,0
+CUST061,C00061,23,187,5608,Month-to-month,Electronic Check,No,1,0
+CUST062,C00062,10,195,4284,Two year,Electronic Check,No,0,1
+CUST063,C00063,53,128,5803,One year,Bank Transfer,No,0,0
+CUST064,C00064,25,176,4496,One year,Bank Transfer,No,1,0
+CUST065,C00065,65,180,4142,One year,Credit Card,Yes,0,0
+CUST066,C00066,3,140,2541,One year,Electronic Check,No,1,0
+CUST067,C00067,53,61,3631,One year,Bank Transfer,No,0,0
+CUST068,C00068,62,62,3016,Two year,Credit Card,Yes,0,0
+CUST069,C00069,2,102,1333,Two year,Credit Card,Yes,0,1
+CUST070,C00070,53,21,6828,One year,Credit Card,No,0,0
+CUST071,C00071,69,153,1418,Month-to-month,Electronic Check,No,0,0
+CUST072,C00072,68,153,1930,One year,Electronic Check,Yes,0,0
+CUST073,C00073,13,125,3696,Two year,Credit Card,No,1,0
+CUST074,C00074,2,152,2038,Month-to-month,Bank Transfer,No,0,1
+CUST075,C00075,70,77,7593,Two year,Electronic Check,Yes,0,0
+CUST076,C00076,35,170,936,One year,Bank Transfer,Yes,0,0
+CUST077,C00077,4,43,7302,Month-to-month,Credit Card,Yes,0,1
+CUST078,C00078,41,109,7937,Two year,Bank Transfer,Yes,1,0
+CUST079,C00079,8,95,3792,One year,Bank Transfer,Yes,1,0
+CUST080,C00080,47,138,6406,Two year,Credit Card,Yes,0,0
+CUST081,C00081,35,139,5211,Two year,Bank Transfer,No,0,0
+CUST082,C00082,30,162,3917,One year,Credit Card,No,0,0
+CUST083,C00083,27,142,1908,Two year,Bank Transfer,No,1,0
+CUST084,C00084,50,141,4412,Month-to-month,Credit Card,No,0,0
+CUST085,C00085,51,136,4725,Two year,Bank Transfer,Yes,1,0
+CUST086,C00086,63,29,7685,Two year,Credit Card,Yes,1,0
+CUST087,C00087,43,103,2856,One year,Electronic Check,No,1,0
+CUST088,C00088,40,108,2650,One year,Electronic Check,No,1,0
+CUST089,C00089,41,177,4075,One year,Bank Transfer,Yes,0,0
+CUST090,C00090,21,126,7735,One year,Credit Card,Yes,0,0
+CUST091,C00091,3,188,2422,Two year,Credit Card,No,1,0
+CUST092,C00092,42,122,1294,Two year,Bank Transfer,No,0,0
+CUST093,C00093,18,29,7469,Month-to-month,Electronic Check,Yes,0,0
+CUST094,C00094,55,193,4344,Two year,Bank Transfer,No,1,0
+CUST095,C00095,21,140,3171,One year,Electronic Check,No,1,0
+CUST096,C00096,20,150,1780,Month-to-month,Electronic Check,Yes,0,0
+CUST097,C00097,15,40,510,Month-to-month,Bank Transfer,No,0,0
+CUST098,C00098,42,172,1168,Month-to-month,Bank Transfer,No,1,0
+CUST099,C00099,10,143,3353,Two year,Electronic Check,No,1,1
+CUST100,C00100,39,84,7566,One year,Electronic Check,No,1,0
