@@ -1,0 +1,6 @@
+Tenure_Band,Customers,Churned,Avg_Monthly,Churn_Rate_%,Retention_%
+0-6 months,48,30,113.8,62.5,37.5
+7-12 months,36,23,117.8,63.9,36.1
+13-24 months,75,0,112.2,0.0,100.0
+25-48 months,171,0,119.3,0.0,100.0
+49-72 months,170,0,107.7,0.0,100.0

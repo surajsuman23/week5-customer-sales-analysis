@@ -1,0 +1,4 @@
+Contract,Customers,Churned,Avg_Monthly,Churn_Rate_%,Retention_%
+Month-to-month,170,35,112.8,20.6,79.4
+One year,186,8,114.0,4.3,95.7
+Two year,144,10,114.1,6.9,93.1

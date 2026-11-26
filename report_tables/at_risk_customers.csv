@@ -1,0 +1,55 @@
+CustomerID,Tenure,MonthlyCharges,TotalCharges,Contract,PaymentMethod,PaperlessBilling,SeniorCitizen,Churn,Tenure_Band,Fixed_Term,Auto_Pay
+C00456,1,30,6242,Two year,Bank Transfer,No,0,0,0-6 months,True,True
+C00158,1,86,7217,Two year,Bank Transfer,Yes,0,0,0-6 months,True,True
+C00497,2,49,5917,Two year,Bank Transfer,No,1,0,0-6 months,True,True
+C00414,2,158,3460,Two year,Electronic Check,No,0,0,0-6 months,True,False
+C00493,2,114,5468,One year,Credit Card,Yes,1,0,0-6 months,True,True
+C00199,3,63,1535,Two year,Electronic Check,No,0,0,0-6 months,True,False
+C00278,3,72,4282,One year,Credit Card,Yes,0,0,0-6 months,True,True
+C00391,3,79,1299,One year,Credit Card,No,1,0,0-6 months,True,True
+C00407,3,75,3048,One year,Electronic Check,No,0,0,0-6 months,True,False
+C00066,3,140,2541,One year,Electronic Check,No,1,0,0-6 months,True,False
+C00091,3,188,2422,Two year,Credit Card,No,1,0,0-6 months,True,True
+C00178,3,180,3232,One year,Bank Transfer,No,0,0,0-6 months,True,True
+C00340,4,20,5182,Two year,Bank Transfer,Yes,1,0,0-6 months,True,True
+C00408,5,44,7840,One year,Credit Card,No,0,0,0-6 months,True,True
+C00423,5,172,2066,One year,Bank Transfer,No,1,0,0-6 months,True,True
+C00295,6,59,6657,Two year,Credit Card,No,0,0,0-6 months,True,True
+C00266,6,115,1677,Two year,Bank Transfer,Yes,1,0,0-6 months,True,True
+C00001,6,64,1540,One year,Credit Card,No,1,0,0-6 months,True,True
+C00042,7,148,2701,Two year,Credit Card,Yes,0,0,7-12 months,True,True
+C00104,7,39,6651,One year,Electronic Check,Yes,1,0,7-12 months,True,False
+C00354,7,54,1631,One year,Credit Card,Yes,1,0,7-12 months,True,True
+C00216,8,102,2161,One year,Bank Transfer,Yes,1,0,7-12 months,True,True
+C00446,8,168,7608,Two year,Credit Card,No,0,0,7-12 months,True,True
+C00079,8,95,3792,One year,Bank Transfer,Yes,1,0,7-12 months,True,True
+C00337,9,24,3090,Two year,Electronic Check,No,1,0,7-12 months,True,False
+C00430,10,21,4968,One year,Electronic Check,No,1,0,7-12 months,True,False
+C00368,10,81,5158,One year,Electronic Check,Yes,1,0,7-12 months,True,False
+C00287,11,60,627,One year,Electronic Check,No,0,0,7-12 months,True,False
+C00306,11,88,7410,One year,Credit Card,No,0,0,7-12 months,True,True
+C00334,11,185,7387,One year,Bank Transfer,Yes,0,0,7-12 months,True,True
+C00233,12,52,7459,Two year,Electronic Check,No,0,0,7-12 months,True,False
+C00182,13,64,4297,Month-to-month,Bank Transfer,Yes,1,0,13-24 months,False,True
+C00447,13,190,6568,Month-to-month,Electronic Check,Yes,1,0,13-24 months,False,False
+C00169,13,99,2938,Month-to-month,Credit Card,No,0,0,13-24 months,False,True
+C00284,13,94,261,Month-to-month,Bank Transfer,Yes,0,0,13-24 months,False,True
+C00297,15,163,4659,Month-to-month,Credit Card,No,0,0,13-24 months,False,True
+C00097,15,40,510,Month-to-month,Bank Transfer,No,0,0,13-24 months,False,True
+C00134,15,28,6569,Month-to-month,Credit Card,No,1,0,13-24 months,False,True
+C00113,15,102,1746,Month-to-month,Credit Card,No,1,0,13-24 months,False,True
+C00246,15,60,3032,Month-to-month,Bank Transfer,No,1,0,13-24 months,False,True
+C00366,17,124,1196,Month-to-month,Credit Card,No,1,0,13-24 months,False,True
+C00323,18,147,2845,Month-to-month,Bank Transfer,Yes,0,0,13-24 months,False,True
+C00093,18,29,7469,Month-to-month,Electronic Check,Yes,0,0,13-24 months,False,False
+C00336,18,188,2878,Month-to-month,Electronic Check,No,0,0,13-24 months,False,False
+C00420,18,53,6260,Month-to-month,Bank Transfer,Yes,0,0,13-24 months,False,True
+C00475,19,82,7583,Month-to-month,Credit Card,Yes,0,0,13-24 months,False,True
+C00096,20,150,1780,Month-to-month,Electronic Check,Yes,0,0,13-24 months,False,False
+C00404,20,37,4631,Month-to-month,Electronic Check,No,0,0,13-24 months,False,False
+C00129,20,179,2692,Month-to-month,Bank Transfer,Yes,1,0,13-24 months,False,True
+C00002,21,113,1753,Month-to-month,Electronic Check,Yes,1,0,13-24 months,False,False
+C00394,22,65,1947,Month-to-month,Bank Transfer,Yes,1,0,13-24 months,False,True
+C00047,22,46,7555,Month-to-month,Bank Transfer,No,1,0,13-24 months,False,True
+C00061,23,187,5608,Month-to-month,Electronic Check,No,1,0,13-24 months,False,False
+C00251,24,48,1639,Month-to-month,Electronic Check,Yes,0,0,13-24 months,False,False

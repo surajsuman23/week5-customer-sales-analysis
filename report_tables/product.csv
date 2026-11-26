@@ -1,0 +1,6 @@
+Product,Revenue,Units,Orders,Avg_Price,Revenue_Rank,Units_Rank
+Laptop,3889210,136,24,27652.0,1,1
+Tablet,2884340,127,26,24177.0,2,2
+Phone,2859394,101,20,27379.0,3,3
+Headphones,1384033,48,15,28692.0,4,5
+Monitor,1348071,66,15,20710.0,5,4
